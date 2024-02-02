@@ -1,7 +1,7 @@
 ---
 title: New Article
 author: Aaranya 
-date: 2024-02-2
+date: 2024-02-02
 tags: ['post', 'featured']
 image: /assets/blog/article-3.jpg
 imageAlt: This is a test
