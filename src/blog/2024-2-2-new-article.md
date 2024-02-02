@@ -1,7 +1,7 @@
 ---
 title: New Article
-author: Kevin Powell
-date: 2021-05-28
+author: Aaranya 
+date: 2024-02-2
 tags: ['post', 'featured']
 image: /assets/blog/article-3.jpg
 imageAlt: This is a test
